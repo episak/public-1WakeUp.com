@@ -1,6 +1,6 @@
 {
-    "name": "_00_first_app",
-    "short_name": "_00_first_app",
+    "name": "project_1wakeup_com",
+    "short_name": "project_1wakeup_com",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
